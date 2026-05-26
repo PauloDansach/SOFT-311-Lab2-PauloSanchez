@@ -1,6 +1,0 @@
-pyproject.toml
-Lab2_PauloSanchez.egg-info/PKG-INFO
-Lab2_PauloSanchez.egg-info/SOURCES.txt
-Lab2_PauloSanchez.egg-info/dependency_links.txt
-Lab2_PauloSanchez.egg-info/requires.txt
-Lab2_PauloSanchez.egg-info/top_level.txt
