@@ -1,3 +1,8 @@
+Actualizacion para la tarea 3:
+Se agrego pytest html a la aplicacion y ahora toma screenshots luego de correr cada test y genera un reporte html
+
+
+
 Casos de Prueba: Home
 
 TC-001: Carga y Renderizado de la pagina principal:
